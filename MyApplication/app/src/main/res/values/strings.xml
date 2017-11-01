@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="text_view_one">TextView1</string>
+    <string name="text_view_two">TextView2</string>
+    <string name="text_view_three">TextView3</string>
+    <string name="instruction_one">Click on recyclerview item</string>
+
+</resources>
